@@ -1,0 +1,8 @@
+git status -> change2
+git init -> new change2
+git config --global user.name "Let's Kode It"
+git config --global user.email letkodeit@gmail.com
+git add
+git commit -m ""
+git log
+Git diff <filename>
